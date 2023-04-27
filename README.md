@@ -33,6 +33,10 @@ ________________________________________________________________________________
 ![3](https://user-images.githubusercontent.com/71190059/234956654-0d373cc1-7727-468e-85c0-3b5a594807f8.png)
 
 ## ⚙️ **_Version Informations_**
-- ***Python: v3.8.8***
 - ***ChromeDriver: 112.0.5615.49***
+- ***JupyterLab: 3.0.14***
+- ***Python: v3.8.8***
 - ***Selenium: 3.141.0***
+
+
+
