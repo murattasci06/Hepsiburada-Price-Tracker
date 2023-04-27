@@ -20,4 +20,4 @@ This application tracks product prices on Hepsiburada at specified intervals dur
 
 ✅ Ability to determine price trends
 
-📂 # Visuals from Project Output
+📂 ## Visuals from Project Output
