@@ -21,5 +21,6 @@ This application tracks product prices on Hepsiburada at specified intervals dur
 ✅ Ability to determine price trends
 
 ## 📂  Visuals from Project Output
+### 👉 The complete file structure generated when the program runs:
 
 ![file_path_latest_situation](https://user-images.githubusercontent.com/71190059/234955059-aed69269-e572-47dd-953b-c1f5f8c787e3.png)
