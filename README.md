@@ -27,5 +27,7 @@ This application tracks product prices on Hepsiburada at specified intervals dur
 
 #### The content of a sample PDF file generated :
 ![1](https://user-images.githubusercontent.com/71190059/234956558-28a2262b-d560-4a2d-b5ce-b1088e3e6606.png)
+
 ![2](https://user-images.githubusercontent.com/71190059/234956630-2c82da81-6ab6-4a39-bdd9-8bdfa55c5e9c.png)
+
 ![3](https://user-images.githubusercontent.com/71190059/234956654-0d373cc1-7727-468e-85c0-3b5a594807f8.png)
