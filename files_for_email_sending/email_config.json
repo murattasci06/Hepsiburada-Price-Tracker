@@ -1,0 +1,9 @@
+{
+  "user_email": "user email adress",
+  "to_email": "recipient email adress",
+  "description": {
+    "user_email": "The email address of the user you want to impersonate (e.g. your Google Workspace user)",
+    "to_email": "Recipient's email address"
+  }
+}
+
