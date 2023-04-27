@@ -23,9 +23,9 @@ This application tracks product prices on Hepsiburada at specified intervals dur
 ## 📂  Visuals from Project Output
 #### 📌 The complete file structure generated when the program runs:
 ![file_path_latest_situation](https://user-images.githubusercontent.com/71190059/234955059-aed69269-e572-47dd-953b-c1f5f8c787e3.png)
-#### Sending the analysis file and product price information as an additional attachment via email:
+#### 📌 Sending the analysis file and product price information as an additional attachment via email:
 ![attachments](https://user-images.githubusercontent.com/71190059/234964360-168cc6f6-307f-48b7-a4c3-4c9e7fed503e.png)
- #### The content of a sample PDF file generated :
+ #### 📌 The content of a sample PDF file generated :
 ![1](https://user-images.githubusercontent.com/71190059/234956558-28a2262b-d560-4a2d-b5ce-b1088e3e6606.png)
 ____________________________________________________________________________________________________________
 ![2](https://user-images.githubusercontent.com/71190059/234956630-2c82da81-6ab6-4a39-bdd9-8bdfa55c5e9c.png)
