@@ -33,6 +33,7 @@ ________________________________________________________________________________
 ![3](https://user-images.githubusercontent.com/71190059/234956654-0d373cc1-7727-468e-85c0-3b5a594807f8.png)
 
 ## ⚙️ **_Version Informations_**
+- ***OS Name: Microsoft Windows Server 2022 Datacenter***
 - ***ChromeDriver: v112.0.5615.49***
 - ***JupyterLab: v3.0.14***
 - ***Python: v3.8.8***
